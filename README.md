@@ -1,4 +1,4 @@
-# Cenários para apresentações de artes da Binaria Arte Contemporânea com óculos VR
+# Cenários para apresentação de artes da Binaria Arte Contemporânea com óculos VR
 * [Menu de Navegação](https://iammatheus.github.io/cenarios/index.html)
 
 ## Links rápidos
